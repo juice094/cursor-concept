@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Build artifacts
+/target/
+*.exe
+*.msi
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.bak
