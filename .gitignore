@@ -15,3 +15,4 @@ $RECYCLE.BIN/
 # Temporary
 *.tmp
 *.bak
+themes_backup_*/

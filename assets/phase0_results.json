@@ -1,0 +1,302 @@
+[
+  {
+    "theme": "dark",
+    "name": "alternate",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4443,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "beam",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 2342,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "dgn1",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 5609,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "dgn2",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 5768,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "handwriting",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 3114,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "help",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 7278,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "horz",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4854,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "link",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4988,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "move",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 9147,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "person",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4324,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "pin",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 5204,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "pointer",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4915,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "precision",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 6486,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "unavailable",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 3391,
+    "status": "OK"
+  },
+  {
+    "theme": "dark",
+    "name": "vert",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4766,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "alternate",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4443,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "beam",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 2342,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "dgn1",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 5609,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "dgn2",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 5768,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "handwriting",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 1852,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "help",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 3547,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "horz",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4854,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "link",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 3235,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "move",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 9147,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "person",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 3949,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "pin",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 3941,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "pointer",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 2414,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "precision",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 6486,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "unavailable",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 3391,
+    "status": "OK"
+  },
+  {
+    "theme": "light",
+    "name": "vert",
+    "png_size": [
+      96,
+      96
+    ],
+    "svg_size": 4766,
+    "status": "OK"
+  }
+]
