@@ -1,20 +1,8 @@
-# Windows
-Thumbs.db
-Desktop.ini
-$RECYCLE.BIN/
+# Runtime artifacts
+installed/
+backup/
+release/
 
-# Build artifacts
-/target/
-*.exe
-*.msi
-
-# IDE
-.vscode/
-.idea/
-
-# Temporary
-*.tmp
-*.bak
-themes_backup_*/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
